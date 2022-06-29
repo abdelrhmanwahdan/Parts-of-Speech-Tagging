@@ -1,4 +1,4 @@
-# Vocab auto correction system
+# Parts of Speech Tagging
 
 ![Parts of Speech Tagging](images/part_of_speech_tagging.png "POS")
 
